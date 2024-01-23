@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta chartet="utf-8>
+<title>
+<style>
+body{
+colour:bleu:
+background-colour:red
+}
+h1{
+colour:green;
+background-colour:yellow
+}
+
+</style>
+<p> this is a pragraph thta contains  alot of ilines in the code  but the 
+brower ingnores it</p>
+<hr>
+this pragrah contains alot of spaces  in the code but the browers ignores it</p>
+<head>
+<body>
+<h1style="clour:blue;">css tutorial</H1>
+<main>
+<p>
+</main>
